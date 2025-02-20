@@ -1,1 +1,1 @@
-index.php
+[Open Index Page](index.php)
